@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Gustavo Welter",
+        "cpf": "831.950.240-39",
+        "casado": true,
+        "filhos": [
+            "Mariana",
+            "Natalia"
+        ]
+    },
+    {
+        "nome": "André",
+        "cpf": "888.999.240-39",
+        "casado": true,
+        "filhos": []
+    },
+    {
+        "nome": "Antônio",
+        "cpf": "777.777.777-77",
+        "casado": false,
+        "filhos": []
+    },
+    {
+        "nome": "Hugo",
+        "cpf": "999.999.999-99",
+        "casado": true,
+        "filhos": [
+            "Sérgio",
+            "Moraes"
+        ]
+    },
+    {
+        "nome": "Raphael",
+        "cpf": "04923924555",
+        "casado": true,
+        "filhos": [
+            "rodrigo",
+            "Jessica",
+            "Lucio"
+        ]
+    },
+    {
+        "nome": "Raphael",
+        "cpf": "04923924555",
+        "casado": true,
+        "filhos": [
+            "rodrigo",
+            "Jessica",
+            "Lucio"
+        ]
+    }
+]
