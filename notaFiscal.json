@@ -1,0 +1,15 @@
+{
+  "numero": "049488-23",
+  "cnpj": "91123123/123",
+  "lista de produtos": [
+    {
+      "nome": "camisa do Vasco",
+      "preco": 100
+    },
+    {
+      "nome": "camisa do SP",
+      "preco": 120
+    }
+  ],
+  "valorTotal": 220
+}
