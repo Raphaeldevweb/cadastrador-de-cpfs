@@ -19,6 +19,8 @@ console.log(pessoas);
 
 fs.writeFileSync("pessoas.json", JSON.stringify(pessoas, null, 4));
 
+console.log("oi");
+
 // Passo 1: Capturar: nome, cpf, casado, filhos do terminal
 // e guardar em variáveis de mesmos nomes
 
