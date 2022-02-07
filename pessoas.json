@@ -38,47 +38,5 @@
             "Jessica",
             "Lucio"
         ]
-    },
-    {
-        "nome": "Raphael",
-        "cpf": "04923924555",
-        "casado": true,
-        "filhos": [
-            "rodrigo",
-            "Jessica",
-            "Lucio"
-        ]
-    },
-    {
-        "casado": false,
-        "filhos": []
-    },
-    {
-        "casado": false,
-        "filhos": []
-    },
-    {
-        "nome": "Raphael",
-        "cpf": "04923924551",
-        "casado": false,
-        "filhos": [
-            "Maria"
-        ]
-    },
-    {
-        "nome": "Raphael",
-        "cpf": "04923924551",
-        "casado": false,
-        "filhos": [
-            "Maria"
-        ]
-    },
-    {
-        "nome": "Raphael",
-        "cpf": "04923924551",
-        "casado": false,
-        "filhos": [
-            "Maria"
-        ]
     }
 ]
